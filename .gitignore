@@ -1,1 +1,6 @@
-Sororitas.jpg
+/BIN
+/OBJ
+
+*.txt
+
+.gitignore
